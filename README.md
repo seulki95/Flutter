@@ -1,6 +1,6 @@
 # Andriod
 ### 안드로이드 스튜디오
-https://developer.android.com/studio
+- https://developer.android.com/studio
 - 실행 시 좌측 메뉴의 ‘Plugins’ 클릭
 - Flutter 검색 → ‘install’ 클릭  (Dart 함께 설치)
 - ‘Restart IDE’ 클릭 후 재시작
@@ -11,8 +11,7 @@ https://developer.android.com/studio
 - 하단의 ‘Apply’ → ‘OK’ 클릭
 
 ### 자바 개발 도구
-C:\Program Files\Android\Android Studio\jbr\bin
-내부에 파일이 없을 경우 C:\Program Files\Android\Android Studio\jre\bin 확인
+ - C:\Program Files\Android\Android Studio\jbr\bin (내부에 파일이 없을 경우 C:\Program Files\Android\Android Studio\jre\bin 확인)
 - 윈도우 → 설정 → 시스템 → 정보 → 고급 시스템 설정 → 환경변수 → 시스템 변수 → ‘Path’ → 새로만들기 → 해당 경로 붙여넣기  
 - CMD에 ‘java —version’ 입력 후 버전 확인
 
