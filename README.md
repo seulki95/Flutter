@@ -1,5 +1,5 @@
 # Andriod
-### 안드로이드 스튜디오
+### 안드로이드 스튜디오 설치
 - https://developer.android.com/studio
 - 실행 시 좌측 메뉴의 ‘Plugins’ 클릭
 - Flutter 검색 → ‘install’ 클릭  (Dart 함께 설치)
@@ -31,7 +31,7 @@
 # flutter
 
 ### Flutter 설치
-https://docs.flutter.dev/get-started/install
+- https://docs.flutter.dev/get-started/install
 
 ### Flutter 설정
 - 압축파일 해제 후 C드라이브로 이동
